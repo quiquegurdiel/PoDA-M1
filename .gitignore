@@ -1,5 +1,5 @@
 /.vscode
-/env
+/venv
 *.WAV
 *.MOV
 *.mp4
