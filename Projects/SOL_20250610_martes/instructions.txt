@@ -1,4 +1,4 @@
-//SOL_test2
+//SOL_20250610_martes
 					delay(18680);
 					small_stepper.setSpeed(9);
 					small_stepper.step(73);
